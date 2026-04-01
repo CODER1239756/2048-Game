@@ -18,4 +18,4 @@ This project was developed to strengthen problem-solving skills and gain hands-o
 
 A simple yet practical project that reflects core programming concepts through a well-known game.
 
- <a href="[https://puter.com/?ref=github.com](https://coder1239756.github.io/2048-Game/)"><strong>« LIVE DEMO »</strong></a>
+ <a href="https://puter.com/?ref=github.com](https://coder1239756.github.io/2048-Game/"><strong>« LIVE DEMO »</strong></a>
